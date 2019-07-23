@@ -1,4 +1,4 @@
-FROM sselzer/maven-gitcrypt:3-jdk-11
+FROM sselzer/aws-maven-gitcrypt:3-jdk-11
 
 LABEL maintainer="Philipp Haußleiter <philipp@haussleiter.de>"
 
